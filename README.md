@@ -7,7 +7,7 @@ mostrar una imagen y cambiar el color de un encabezado al hacer clic.
 ## Archivos
 - `index.html` – Estructura y eventos simples (onclick).
 - `styles.css` – Estilos básicos.
-- `script.js` – Ajustes de texto y color con DOM.
+- `script.js` – Ajustes de texto y color.
 - `imagenes/hamburguesa.jpg` – Imagen de una hamburguesa.
 
 ## Tareas implementadas
