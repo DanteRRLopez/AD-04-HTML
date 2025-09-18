@@ -10,9 +10,6 @@ mostrar una imagen y cambiar el color de un encabezado al hacer clic.
 - `script.js` – Ajustes de texto y color con DOM.
 - `imagenes/hamburguesa.jpg` – Imagen de una hamburguesa.
 
-## Cómo ejecutar
-Solo abre `index.html` en tu navegador (doble clic o arrastrar al navegador).
-
 ## Tareas implementadas
 1. Botón que muestra alerta: **“ES HORA DE UNA HAMBURGUESA”**.  
 2. Título **BURGER TOWN!** que imprime un mensaje en la consola al hacer clic.  
